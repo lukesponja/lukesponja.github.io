@@ -1,0 +1,98 @@
+        body {
+            background-color: #E8E1D5;
+            color: #423C32;
+            font-family: Verdana, sans-serif;
+            margin: 0;
+            padding: 30px 15px;
+        }
+
+        .container {
+            max-width: 900px;
+            margin: auto;
+            background-color: #F5F0E6;
+            padding: 25px;
+        }
+
+        header {
+            text-align: center;
+            padding: 20px;
+            border-bottom: 2px solid #A68B6A;
+        }
+
+        header h1 {
+            color: #655743;
+            font-size: 32px;
+        }
+
+        header h2 {
+            color: #8B7355;
+            border: none;
+        }
+
+        nav {
+            text-align: center;
+            padding: 15px;
+            border-bottom: 1px solid #A68B6A;
+        }
+
+        nav a {
+            color: #71806A;
+            margin: 0 12px;
+            font-weight: bold;
+            text-decoration: none;
+        }
+
+        nav a:hover {
+            color: #B56F52;
+            text-decoration: underline;
+        }
+
+        section {
+            margin: 25px 0;
+            padding: 15px;
+            border-bottom: 1px solid #C9BBA7;
+        }
+
+        h2 {
+            color: #8B7355;
+            border-bottom: 1px dotted #A68B6A;
+            padding-bottom: 8px;
+        }
+
+        h3 {
+            color: #71806A;
+        }
+
+        a {
+            color: #71806A;
+        }
+
+        .favorites-list {
+            list-style: none;
+            padding-left: 0;
+        }
+
+        .favorites-list li {
+            padding: 10px;
+            margin-bottom: 8px;
+            border-bottom: 1px dotted #C9BBA7;
+        }
+
+        .favorites-list .title {
+            font-weight: bold;
+            color: #655743;
+        }
+
+        .favorites-list .details {
+            font-size: 12px;
+            color: #82796B;
+        }
+
+        footer {
+            text-align: center;
+            margin-top: 30px;
+            padding: 15px;
+            border-top: 2px solid #A68B6A;
+            font-size: 12px;
+            color: #82796B;
+        }
